@@ -1,0 +1,1 @@
+Mobile game written in Java and using libGDX to accomplish cross platform support. Objective of the game is to avoid colliding with the pencils to gain points. There are also collectable items in the game that modify the gameplay.

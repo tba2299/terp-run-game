@@ -1,0 +1,32 @@
+collectables.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+M
+  rotate: false
+  xy: 232, 2
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+beer
+  rotate: false
+  xy: 132, 2
+  size: 98, 108
+  orig: 128, 128
+  offset: 20, 10
+  index: -1
+coffee
+  rotate: true
+  xy: 2, 2
+  size: 122, 128
+  orig: 128, 128
+  offset: 3, 0
+  index: -1
+pizza
+  rotate: false
+  xy: 232, 52
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
